@@ -25,6 +25,7 @@
 .width{
     max-width: 1440px;
     margin: 0 auto;
+    padding: 0 15px;
 }
 
 .btn-primary{
@@ -170,7 +171,7 @@ header .banner .banner-content{
     box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
 }
 
-.our-feature-img {
+.our-feature-img{
     /* position: absolute;
      */
      
